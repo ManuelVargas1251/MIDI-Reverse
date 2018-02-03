@@ -130,8 +130,8 @@ int main(int argc, char *argv[]){
 		//cout<<"new row: "<<input_vector.back()<<endl;
 	}
 	
-	out<<"fuck you"<<endl;
-	cout<<"fuck you"<<endl;
+	out<<"end test file"<<endl;
+	cout<<"end test console"<<endl;
 	out<<total_time<<" Meta TrkEnd"<<endl;
 	out<<"TrkEnd"<<endl;
 	
